@@ -69,7 +69,7 @@ To build strong expertise in Software Testing and Automation Testing through con
 📧 Email:rajeswariramar06@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/rajeswari-r-1418b1351
-🌍 Location: Tiruppur,Tamilnadu,India
+
 
 ---
 
