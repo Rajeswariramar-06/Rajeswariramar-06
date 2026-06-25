@@ -20,7 +20,7 @@
 
 ### 🧪 Testing
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Network_Fundamentals-00599C?style=for-the-badge&logo=cisco&logoColor=white)
