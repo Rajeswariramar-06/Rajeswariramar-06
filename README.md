@@ -61,13 +61,8 @@ To build strong expertise in Software Testing and Automation Testing through con
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
@@ -78,6 +73,6 @@ To build strong expertise in Software Testing and Automation Testing through con
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ### _"Test early, test often, and test with passion."_
