@@ -9,7 +9,7 @@
 - Passionate about Software Testing and Quality Assurance.
 - Currently learning Automation Testing with Java.
 - Building real-world testing projects to improve practical skills.
-- Interested in Manual Testing, API Testing and Automation Testing.
+- Interested in Manual Testing and Automation Testing.
 
 ---
 
@@ -20,7 +20,6 @@
 
 ### 🧪 Testing
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Network_Fundamentals-00599C?style=for-the-badge&logo=cisco&logoColor=white)
@@ -45,6 +44,27 @@
 ✅ Test Execution  
 
 ---
+
+ 🚀 Agile Scrum Project Management using Jira
+
+ I practiced Agile and Scrum workflows using Jira as part of my Software Testing learning journey.
+
+✅ Scrum Project Creation  
+✅ Product Backlog Management  
+✅ Epic Creation  
+✅ User Story Creation  
+✅ Acceptance Criteria Definition  
+✅ Story Point Estimation  
+✅ Sprint Planning  
+✅ Sprint Backlog Management  
+✅ Bug Tracking and Reporting  
+
+🛠️ Tools Used:
+- Jira
+- Agile Scrum Methodology
+- Software Testing Concepts
+
+  ---
 
 ## ⚙️ Tools I Use
 
