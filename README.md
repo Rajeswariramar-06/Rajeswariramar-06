@@ -31,6 +31,18 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 🛡️ Cybersecurity
+
+![Cybersecurity Fundamentals](https://img.shields.io/badge/CYBERSECURITY-FUNDAMENTALS-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
+### 🐧 Linux
+
+![Linux Ubuntu](https://img.shields.io/badge/LINUX-UBUNTU-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black)
+
+### 🔒 Network Security
+
+![Network Security](https://img.shields.io/badge/NETWORK-SECURITY-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
 ---
 
 ## 📂 Projects
