@@ -41,7 +41,7 @@
 
 ### 🔒 Network Security
 
-![NetworkSecurity Fundamentals ](https://img.shields.io/badge/NETWORK-SECURITY-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![NetworkSecurity Fundamentals ](https://img.shields.io/badge/NETWORKSECURITY-FUNDAMENTALS-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
